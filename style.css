@@ -1,0 +1,33 @@
+.body_bg
+{
+    background-position: center;
+    background-size: cover;
+    background-image: url(AVENGERS\ LOL.webp);
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+h2
+{
+	border-radius: 15px;
+	width: 300px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+    display: center;
+}
+span
+{
+	color: black;	
+}
+#heading
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
